@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Sylla Ayu Kusumahati
+# Proyek Machine Learning - Sylla Ayu Kusumahati
 ## Domain Proyek
 
 Domain proyek yang dipilih dalam proyek machine learning ini adalah mengenai **telekomunikasi** dengan judul proyek "Prediksi Data Churn pada Pelanggan Telco".
@@ -140,58 +140,58 @@ Jenis dan Ukuran Berkas | CSV (978 kB)
 21. `Churn` Apakah pelanggan churn atau tidak (Ya atau Tidak)
 
 Berikut visualisasi pada presentase ` Churn` :
-![images](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/vis1.png)
+![vis1](https://user-images.githubusercontent.com/88132870/235426664-31b724d7-b412-434b-85b7-4accaf7fda57.png)
 
-![images](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/vis2.png)
+![vis2](https://user-images.githubusercontent.com/88132870/235426667-8a80783a-6b2c-44a4-9213-767b3ee47512.png)
 
 Kemudian terdapat juga visualisasi data untuk kolom dengan fitur numerik seperti pada gambar dibawah ini :
 Distribusi fitur numerik pada **tenure**
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/dis1.png)
+![dis1](https://user-images.githubusercontent.com/88132870/235426631-b6e65125-f808-4d47-8ab0-ebaff6635ab7.png)
 
 Distribusi fitur numerik pada **MonthlyCharges**
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/dis2.png)
+![dis2](https://user-images.githubusercontent.com/88132870/235426747-d4721c51-360e-4190-9084-a78a9316e754.png)
 
 Distribusi fitur numerik pada **TotalCharges**
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/dis3.png)
+![dis3](https://user-images.githubusercontent.com/88132870/235426751-1ac1a378-1fc5-4182-be24-7798424816e6.png)
 
 Distribusi data pada kolom dengan fitur numerik dengan fungsi pairplot()
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot.png)
+![plot](https://user-images.githubusercontent.com/88132870/235426822-fc1ea33d-d945-4926-8c5a-d8df931ee2b5.png)
 
 Terakhir visualisasi data untuk kolom dengan fitur kategori seperti pada gambar dibawah ini :
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot1.png)
+![plot1](https://user-images.githubusercontent.com/88132870/235426824-da58059e-caf8-425f-a792-e46152bba518.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot2.png)
+![plot2](https://user-images.githubusercontent.com/88132870/235426826-97066848-a11e-4c2d-9550-66804b76ac3e.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot3.png)
+![plot3](https://user-images.githubusercontent.com/88132870/235426828-3381d4d0-4147-4cea-b35c-91bce35fcf68.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot4.png)
+![plot4](https://user-images.githubusercontent.com/88132870/235426830-a93d2bb5-c399-47bd-ac09-436ecb437cc1.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot5.png)
+![plot5](https://user-images.githubusercontent.com/88132870/235426831-8e2c812e-94a1-4222-8df1-0369724617ef.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot6.png)
+![plot6](https://user-images.githubusercontent.com/88132870/235426832-dfdb9c55-b335-49eb-935f-1ef02681675b.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot7.png)
+![plot7](https://user-images.githubusercontent.com/88132870/235426833-f9b4d291-4fd3-4a18-ad9c-544b2b261832.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot8.png)
+![plot8](https://user-images.githubusercontent.com/88132870/235426836-4839d1d1-afb2-4df9-80be-e6a2b7cd6b8a.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot9.png)
+![plot9](https://user-images.githubusercontent.com/88132870/235426837-845430c1-a280-483f-977d-b03669120ff3.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot10.png)
+![plot10](https://user-images.githubusercontent.com/88132870/235426840-4f85a59e-2f68-4b82-a07e-435153ed3802.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot11.png)
+![plot11](https://user-images.githubusercontent.com/88132870/235426842-e1e355ff-02b5-4d26-9ae3-d0c8068d299f.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot12.png)
+![plot12](https://user-images.githubusercontent.com/88132870/235426843-6744035d-43b8-4d68-be29-59d1207d70c7.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot13.png)
+![plot13](https://user-images.githubusercontent.com/88132870/235426849-cf52b99d-fc0b-4cdd-a49e-28d11c0bae2f.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot14.png)
+![plot14](https://user-images.githubusercontent.com/88132870/235426852-f1955438-7811-4bfe-9700-38a1e104aae1.png)
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/plot15.png)
+![plot15](https://user-images.githubusercontent.com/88132870/235426854-7919915a-4732-4073-ba24-fb8e4d06ea7f.png)
 
 # Data Preparation
 Seperti yang sudah disebutkan sebelumnya pada bagian *Solution statements*, berikut adalah tahapan-tahapan dalam melakukan pra-pemrosesan data :
 * Mengisi data yang kosong dengan nilai rata rata atau **(mean substitution)**
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/mean.png)
+![mean](https://user-images.githubusercontent.com/88132870/235426815-848b5568-7acd-4d3a-abf9-5e1e41622eb2.png)
 Menganggap data kosong sebagai data rata-rata, model tetap dapat memperoleh informasi dari data yang ada pada kolom lainnya. Proses yang dilakukan pertama-tama dengan cara mengambil nilai rata-rata dari kolom yang memiliki data kosong, kemudian memasukannya kepada setiap data kosong sebagai pengganti dari datanya. Semua proses tersebut dilakukan dengan slicing data dengan kondisi menggunakan pandas.
 
 * Melakukan **proses encoding** fitur kategori
@@ -217,18 +217,18 @@ Pada tahap ini menerapkan algoritma pada dataset menggunakan library scikit-lear
 
 
 Metrik yang akan kita gunakan pada prediksi ini adalah MSE atau Mean Squared Error yang menghitung selisih rata-rata nilai sebenarnya dengan nilai prediksi. MSE didefinisikan dalam persamaan berikut :
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/12.jpeg)
+![12](https://user-images.githubusercontent.com/88132870/235427270-ad358435-98ee-47fe-b3b5-ac724472880d.jpeg)
 
 Hasil evaluasi pada data latih dan data test adalah sebagai berikut :
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/121.png)
+![121](https://user-images.githubusercontent.com/88132870/235427284-c405ba5d-a6e2-44e8-83ff-cdf89141fe37.png)
 
 Untuk memudahkan, berikut plot metrik tersebut dengan bar chart.
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/11.png)
+![11](https://user-images.githubusercontent.com/88132870/235427267-66e6aacc-b074-46d9-bda5-480b1965080b.png)
 Dari gambar di atas, terlihat bahwa, model KNN memberikan nilai eror yang paling seimbang. Model inilah yang akan kita pilih sebagai model terbaik untuk melakukan prediksi churn.
 
 Hasil prediksi menggunakan beberapa data pada data test :
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/13.png)
+![13](https://user-images.githubusercontent.com/88132870/235427272-25137a41-1e08-4d73-b05a-d95698626288.png)
 Terlihat bahwa prediksi dengan K-Nearest Neighbor (KNN) memberikan hasil yang bagus. 
 
 * Model *baseline*
@@ -238,7 +238,7 @@ Terlihat bahwa prediksi dengan K-Nearest Neighbor (KNN) memberikan hasil yang ba
   Kemudian setelah melihat kinerja model baseline, agar dapat bekerja lebih optimal lagi maka digunakan sebuah fungsi untuk mencari hyperparameter yang optimal dengan GridSearchCV. Setelah ditemukan yang optimal, kemudian hyperparameter tersebut diterapkan ke model baseline.
 
 Hasilnya dapat dilihat seperti pada tabel berikut ini :
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/14.png)
+![14](https://user-images.githubusercontent.com/88132870/235427274-bced930b-e69d-4416-8e13-7407cf0a1fa3.png)
 
 Pada model baseline nilai akurasinya sedikit buruk. Namun setelah dilakukan pengaturan *hyperparamete*r, nilai akurasi pun meningkat. Walaupun akurasi tidak meningkat secara signifikan. Untuk membuktikannya, kedua model tersebut diuji pada data uji dan di visualisasikan pada *confussion matrix* seperti berikut.
 
@@ -247,7 +247,7 @@ Pada model baseline nilai akurasinya sedikit buruk. Namun setelah dilakukan peng
 Gambar dibawah ini merupakan confusion matrix dengan 4 kombinasi nilai prediksi dan nilai aktual yang berbeda. Merupakan hasil dari Model baseline dan model yang dikembangkan.
 
 * **Model baseline**
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/15.png)
+![15](https://user-images.githubusercontent.com/88132870/235427275-05ca068b-fb10-422f-ac62-7b06719054a2.png)
 
 Pada kasus model *baseline* Cunfusion Matrix ini menunjukkan bahwa :
 - `True Positive(TP)` memprediksi terdapat 892 pelanggan benar tidak churn 
@@ -255,10 +255,10 @@ Pada kasus model *baseline* Cunfusion Matrix ini menunjukkan bahwa :
 - `False Positive(FP)` memprediksi terdapat 144 pelanggan positif tidak churn dan ternyata prediksi salah, ternyata pelanggan negatif churn 
 - `False Negative(FN) memprediksi terdapat 189 pelanggan negatif Churn dan ternyata prediksi salah, ternyata pelanggan positif tidak churn
 - Kemudian pada akurasi ini bila dihitung dengan rumus *accuracy* maka akan menghasilkan akurasi sebesar 76% seperti gambar :
-![images](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/akur.png)
+![akur](https://user-images.githubusercontent.com/88132870/235427549-bdaf153e-e837-4e37-9b76-24d6eb1645bf.png)
 
 * **Model yang dikembangkan**
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/16.png)
+![16](https://user-images.githubusercontent.com/88132870/235427277-83d4addb-ba68-4245-95cc-1d70d7640b87.png)
 
 Pada kasus model yang dikembangankan Cunfusion Matrix ini menunjukkan bahwa :
 - `True Positive(TP)` memprediksi menjadi sebesar 965 pelanggan benar tidak churn 
@@ -266,7 +266,7 @@ Pada kasus model yang dikembangankan Cunfusion Matrix ini menunjukkan bahwa :
 - `False Positive(FP)` memprediksi menjadi sebesar 71 pelanggan positif tidak churn dan ternyata prediksi salah, ternyata pelanggan negatif churn 
 - `False Negative(FN) memprediksi menjadi sebesar 254 pelanggan negatif Churn dan ternyata prediksi salah, ternyata pelanggan positif tidak churn
 - Kemudian pada akurasi ini bila dihitung dengan rumus *accuracy* maka akan menghasilkan akurasi sebesar 77% seperti gambar :
-![img](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/akuras.png)
+![akuras](https://user-images.githubusercontent.com/88132870/235427550-a53f7f37-e5ab-47b8-828c-4021feb0ac43.png)
 
 Dengan hasil diatas, maka model yang dikembangkan merupakan model yang dipilih untuk digunakan. Karena memberi akurasi terbaik pada sistem rekomendasi. 
 
@@ -280,24 +280,24 @@ Berdasarkan terjemahan [[7]](https://developers.google.com/machine-learning/cras
 
 * Akurasi
 Akurasi adalah salah satu metrik untuk mengevaluasi model klasifikasi. Akurasi memiliki definisi sebagai berikut:
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/2.png)
+![2](https://user-images.githubusercontent.com/88132870/235427522-0b651503-b8ff-4e75-b580-3f862aa67d28.png)
 Untuk kasus ini akurasi dapat dihitung seperti gambar dibawah :
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/3.png)
+![3](https://user-images.githubusercontent.com/88132870/235427523-411b3723-306c-417a-904c-16a32cdbf569.png)
     Kelebihan dari metriks ini adalah sering digunakan dalam kasus pembuatan model klasifikasi baik itu klasifikasi dua kelas, atau kategori. Kekurangan dari metrik ini adalah dapat bersifat 'menyesatkan' pada data yang tidak seimbang.
 
 * *Precission*
 Merupakan rasio prediksi benar positif dibandingkan dengan keseluruhan hasil yang diprediksi positf. Perhitungan *precission* seperti gambar dibawah : 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/4.png)
+![4](https://user-images.githubusercontent.com/88132870/235427526-29410594-19f3-44b4-823e-6224ddd0095c.png)
 Kelebihan dari metriks ini berfokus pada bagaimana performa (prediksi) model terhadap label data positif, kekurangannya metriks ini tidak memperhitungkan label negatifnya.
 
 * *Recall* (Sensitifitas)
 Merupakan rasio prediksi benar positif dibandingkan dengan keseluruhan hasil yang diprediksi positf.
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/5.png)
+![5](https://user-images.githubusercontent.com/88132870/235427527-549ae571-32dd-40f2-b93e-b90ed0892382.png)
 Kelebihan dari metriks ini menghitung bagian negatif dari prediksi label positif (tidak seperti precision). Tetapi kekurangannya ketika semua prediksi = 1 maka recall akan bernilai 1 (tidak memperhitungkan prediksi negatif).
 
 * *F1 Score*
 F1 Score merupakan perbandingan rata-rata presisi dan recall yang dibobotkan.
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/6.png)
+![6](https://user-images.githubusercontent.com/88132870/235427528-2d757c9b-a7cb-4675-b8e3-3d9bf08f4278.png)
 Kelebihan dari metriks ini menutup semua kekurangan yang ada pada precision dan recall. Namun kekurangannya adalah f1-score tidak memperhitungkan hasil prediksi benar pada label negatif.
 
 # Referensi
