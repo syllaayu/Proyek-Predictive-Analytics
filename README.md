@@ -273,9 +273,10 @@ Dengan hasil diatas, maka model yang dikembangkan merupakan model yang dipilih u
 # Evaluation
 Pada proyek ini, model yang dibuat merupakan kasus regressi dan menggunakan metriks akurasi, f1-score, recall dan precision. Pada gambar dibawah ini ditampilkan kembali hasil pengukuran model yang dikembangkan dengan metriks akurasi, f1-score, recall dan precision.
 
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/17.png)
+![1](https://user-images.githubusercontent.com/88132870/235424275-fd67ce8f-8cf0-4bb2-a1a9-519f947be7b0.png)
 
 Berdasarkan terjemahan [[7]](https://developers.google.com/machine-learning/crash-course/classification/accuracy) berikut adalah pengertian dari *accuracy*, *precision*, *recall*, *f1-score* :
+
 
 * Akurasi
 Akurasi adalah salah satu metrik untuk mengevaluasi model klasifikasi. Akurasi memiliki definisi sebagai berikut:
