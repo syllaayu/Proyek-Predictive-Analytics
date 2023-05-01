@@ -48,7 +48,7 @@ Solusi yang dapat dilakukan untuk memenuhi tujuan dari proyek ini diantaranya :
         * Muat datanya
         * Inisialisasi nilai K (banyak tetangga/kelompok)
         * Pada setiap datanya :
-            * Hitung euclidian distance antara contoh kueri dan contoh yang ada pada data tersebut dengan rumus seperti berikut ini : ![Rumus Euclidian Distance](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/ss.png)
+            * Hitung euclidian distance antara contoh kueri dan contoh yang ada pada data tersebut dengan rumus seperti berikut ini : ![ss](https://user-images.githubusercontent.com/88132870/235426205-54eff9ad-694a-494d-b041-d93bc51d0b09.png)
             * Tambahkan jarak dan urutan dari contoh pada koleksi yang berururutan
         * Pilih entri K paling awal pada koleksi yang berurutan
         * Dapatkan label dari dari entri K yang dipilih
@@ -79,7 +79,7 @@ Solusi yang dapat dilakukan untuk memenuhi tujuan dari proyek ini diantaranya :
         * Awalnya, semua kasus dalam data latih memiliki weight atau bobot yang sama.
         * Bangun pohon keputusan dengan setiap fitur, klasifikasikan data dan evaluasi hasilnya
         * Hitung signifikansi pohon dalam klasifikasi akhir. Rumus lanjutan untuk menghitung jumlah ialah :
-        ![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/jjj.png)
+        ![jjj](https://user-images.githubusercontent.com/88132870/235426379-05ad0803-4609-40dc-be4f-c64e9ae12b8e.png)
         * Perbarui bobot sampel sehingga pohon keputusan berikutnya akan memperhitungkan kesalahan yang dibuat oleh pohon keputusan sebelumnya
         * Bentuk kumpulan data baru
         * Ulangi langkah 2 sampai 5 sampai jumlah iterasi sama dengan jumlah yang ditentukan oleh hyperparameter (yaitu jumlah estimator)
@@ -103,7 +103,7 @@ Cara kerja algoritma ini adalah sebagai berikut (diterjemahkan dari [[5]](https:
 Poin pra-pemrosesan data akan dibahas lebih lanjut pada bagian Data Preparation.
 
 # Data Understanding
-![image](https://raw.githubusercontent.com/syllaayu/FotoSya/main/FOTO/ddd.png)
+<img width="691" alt="ddd" src="https://user-images.githubusercontent.com/88132870/235426462-613d0f5b-7ee3-4828-b83d-038e91f79eb9.png">
 
 Informasi dataset dapat dilihat pada tabel dibawah ini :
 Jenis | Keterangan
